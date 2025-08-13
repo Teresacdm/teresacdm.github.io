@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/cover.jpg){: .align-right width="300px"}
 👨🏻‍💻 I'm a Research Scientist at Sakana AI.
 
 🔬 My research interests are in Openended Learning using large foundation models!
