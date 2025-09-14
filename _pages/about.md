@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hey, I'm Teresa!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,9 +17,9 @@ redirect_from:
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
-# Selected Experience
+# About Me
 
-## 👨🏻‍🔬 Professional Experience
+## 👨🏻‍🔬 About my past
 Currently, I am working as a **Research Scientist** at Sakana AI exploring how to develop an *openended algorithm to coevolve a population of agents and the environment they are in*. \
 Before this, I explored latent reasoning by combining diffusion models with large language models and how to train a process reward model for training multimodal large language models as UI-Agents.
 
@@ -28,19 +28,19 @@ During my final year at college I was working as a **Student Researcher** at the
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
 There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
 
-## 🤖 Open Source Contributions
+## 🤖 About my present
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
 
 Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
-## 📜 Reimplementing and Reproducing Papers
+## 📜 About my Future
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
 
 To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
 
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
-## 📚 Teaching and Community Contributions
+## 📚 Passion and Purpose
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
 Moreover, I try my best to be a reviewer at top conferences that people don't hate. I even got an [outstanding reviewer award](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee) at the CVPR 2025 conference!
 
