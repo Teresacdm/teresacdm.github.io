@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hey, I'm Teresa!"
+title: "👋🏼 Hey, I'm Teresa! Get to know me better"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,12 +9,10 @@ redirect_from:
 ---
 
 
-# About Me
-
 ## About My Present
 I’m currently part of JTI’s Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
 
-**Rotation 1: Business Technology Solutions:**
+### **Rotation 1: Business Technology Solutions:**
 ======
   In my first rotation, I contributed to the **Digital Consumer Program for Reduced Risk Products** — a digital ecosystem designed to engage consumers through tailored digital experiences. My role exposed me to diverse business perspectives, from Asian to European markets, adapting solutions to different consumer needs and cultural contexts.
   Key contributions:
@@ -25,7 +23,7 @@ I’m currently part of JTI’s Graduate Programme, an exciting rotational journ
 
   - **AI & Productivity Initiative**: Identified efficiency gaps in BTS daily routines and tested Microsoft Copilot and Power Automate use cases. Produced a structured evaluation report, highlighting where AI added the most value, and delivered a tailored presentation to my manager on how to embed AI-driven solutions into workflows. This project gave me practical insight into **AI adoption for workplace productivity**.
 
-**Rotation 2: Data Innovation & Analytics:**
+### **Rotation 2: Data Innovation & Analytics:**
 ======
   Currently, I’m acting as a **Business Analyst** within two **agile (scrum) teams** — the Marketing Automation team and the Customer Data Platform (CDP) team. My role bridges business needs and technical execution, translating initiatives into clear requirements and working with **Jira** to streamline collaboration and ensure alignment across teams on tasks, bugs, and initiatives.
 
@@ -44,29 +42,30 @@ I’m currently part of JTI’s Graduate Programme, an exciting rotational journ
     
 
 ## About my past
-Born and raised in Granada, I studied a **Double Degree in Computer Engineering and Business Administration** at the University of Granada.
+I was born and raised in **Granada**, where I pursued a **Double Degree in Computer Engineering and Business Administration** at the University of Granada. This path gave me a unique perspective at the intersection of technology and business, strengthening both my analytical and problem-solving skills.
 
-During my studies, I broadened my horizons with two exchange programs:
+I expanded my international outlook through **exchange programs** at Universidad Rey Juan Carlos (Madrid, Spain) and BME: University of Technology and Economics (Budapest, Hungary), experiences that broadened my cultural adaptability and academic depth.
 
-    - URJC: Universidad Rey Juan Carlos (Madrid, Spain)
-    - BME: University of Technology and Economics (Budapest, Hungary)
+Throughout my studies, I developed strong technical versatility, working with languages such as **Python, Java, Ruby, HTML, SQL**, and tools like **MongoDB, Django, KNIME, and Flet**. These projects allowed me to apply my skills in real-world contexts:
 
-My final project in Computer Engineering was the prototype of an application for professional physiotherapists in soccer, designed to centralize and analyze players’ health data to support informed decisions on injuries, recovery, and rehabilitation.
+  - **Final Degree Project**: Designed and developed a **Flet application with Python backend** for professional football physiotherapists, enabling efficient player health data registration and visualization to support decision-making on injuries and recovery. Being evaluated by the jury with a 9.5. 
+
+  - **Business Intelligence**: Used **KNIME and Python** to analyze datasets, performing clustering on Spanish population data to study political opinion segmentation.
+
+  - **Web Applications Development**: Built an e-commerce platform with **Python, HTML, MongoDB, and Django**, gaining hands-on experience in **full-stack** web development.
+
+  - **Object-Oriented Programming**: Created a maze-based game in **Java and Ruby**, applying object-oriented design principles, probability, and logic-based mechanics.
+
+  - **Marketing & Media Projects**: Explored brand personality creation and media strategies through academic projects, even developing fictional start-ups to which I created a whole business plan and pitched it to a jury. I also strongly engaged in analyzing real-world campaigns to understand how businesses shape consumer engagement.
+
+
+I successfully completed this challenging double degree in the planned five years, graduating with both technical and business expertise that I continue to build on today.
+
 
 ## About my Future
-My third and final rotation will be in the **Technology & Innovation** department, where I’ll explore cutting-edge tools and evaluate their potential value for the company, employees, and consumers.
+Looking ahead, I am eager to continue expanding both my **business knowledge and technical expertise**, building on the foundation of my rotational experience. My upcoming third rotation in the **Technology & Innovation** department will give me the opportunity to explore emerging tools and evaluate their potential impact for employees, consumers, and the business as a whole.
 
-Beyond the programme, I aim to take on roles that bridge technology and business, leveraging my dual academic background and international perspective to drive meaningful impact.
+Beyond technical growth, I value the global perspective I have gained at JTI — **working with colleagues from diverse cultures and backgrounds** has been one of the most **enriching** aspects of my journey so far. I believe that a company’s strength lies in harnessing these different perspectives, and I actively foster strong team relationships, as understanding people is key to working better together.
 
-## Passion and Purpose
-I’m passionate about joining teams that foster innovation, autonomy, and continuous learning.
-I want to contribute to purpose-driven projects, especially those aligned with sustainability and the circular economy — values I practice daily.
-
-I strongly believe in the power of reusing and repairing over replacing. My advocacy for the **second-hand market and circular economy** reflects not only my professional values but also my personal lifestyle.
-
-
-
-
-
-
+At the heart of my career aspirations is a passion for driving projects that combine **innovation, purpose, and sustainability**. I feel strongly engaged with the principles of the circular economy, and I believe the **second-hand market** is one of the key pillars of sustainability. My goal is to keep growing in roles that bridge technology and business, while contributing to solutions that not only create value but also make a **positive impact** on the world.
 
