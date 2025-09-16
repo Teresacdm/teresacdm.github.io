@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hey, I'm Teresa! Get to know me better"
+title: "👋🏼 Hey, I'm Teresa. Get to know me better!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About My Present
-I’m currently part of JTI’s Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
+I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
 
 ### **Rotation 1: Business Technology Solutions:**
   In my first rotation, I contributed to the **Digital Consumer Program for Reduced Risk Products** — a digital ecosystem designed to engage consumers through tailored digital experiences. My role exposed me to diverse business perspectives, from Asian to European markets, adapting solutions to different consumer needs and cultural contexts.
