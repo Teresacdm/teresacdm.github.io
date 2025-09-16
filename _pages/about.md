@@ -13,7 +13,6 @@ redirect_from:
 I’m currently part of JTI’s Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
 
 ### **Rotation 1: Business Technology Solutions:**
-======
   In my first rotation, I contributed to the **Digital Consumer Program for Reduced Risk Products** — a digital ecosystem designed to engage consumers through tailored digital experiences. My role exposed me to diverse business perspectives, from Asian to European markets, adapting solutions to different consumer needs and cultural contexts.
   Key contributions:
 
@@ -24,7 +23,6 @@ I’m currently part of JTI’s Graduate Programme, an exciting rotational journ
   - **AI & Productivity Initiative**: Identified efficiency gaps in BTS daily routines and tested Microsoft Copilot and Power Automate use cases. Produced a structured evaluation report, highlighting where AI added the most value, and delivered a tailored presentation to my manager on how to embed AI-driven solutions into workflows. This project gave me practical insight into **AI adoption for workplace productivity**.
 
 ### **Rotation 2: Data Innovation & Analytics:**
-======
   Currently, I’m acting as a **Business Analyst** within two **agile (scrum) teams** — the Marketing Automation team and the Customer Data Platform (CDP) team. My role bridges business needs and technical execution, translating initiatives into clear requirements and working with **Jira** to streamline collaboration and ensure alignment across teams on tasks, bugs, and initiatives.
 
   Key contributions:
