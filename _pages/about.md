@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## 1About My Present
+## About My Present
 I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
 
 ### **Rotation 1: Business Technology Solutions:**

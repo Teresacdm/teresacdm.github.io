@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Teresa Cabrera"
-  avatar           : profile.png
+  avatar           : https://github.com/Teresacdm/teresacdm.github.io/blob/master/images/profile.png
   bio              : "Double degree in Computer Engineering and Business Administration"
   location         : "Madrid, Spain"
   employer         : "JTI"
