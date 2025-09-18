@@ -9,7 +9,22 @@ redirect_from:
 ---
 
 
-## :) About My Present
+<details open>
+  <summary><strong>About My Present</strong></summary>
+  <p>I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.</p>
+</details>
+
+<details>
+  <summary><strong>About My Past</strong></summary>
+  <p>I was born and raised in <strong>Granada</strong>, where I pursued a <strong>Double Degree in Computer Engineering and Business Administration</strong> at the University of Granada. This path gave me a unique perspective at the intersection of technology and business, strengthening both my analytical and problem-solving skills.</p>
+</details>
+
+<details>
+  <summary><strong>About My Future</strong></summary>
+  <p>Looking ahead, I am eager to continue expanding both my <strong>business knowledge and technical expertise</strong>, building on the foundation of my rotational experience. My upcoming third rotation in the <strong>Technology & Innovation</strong> department will give me the opportunity to explore emerging tools and evaluate their potential impact for employees, consumers, and the business as a whole.</p>
+</details>
+
+<!-- ## About My Present
 I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
 
 ### **Rotation 1: Business Technology Solutions:**
@@ -65,5 +80,5 @@ Looking ahead, I am eager to continue expanding both my **business knowledge and
 
 Beyond technical growth, I value the global perspective I have gained at JTI — **working with colleagues from diverse cultures and backgrounds** has been one of the most **enriching** aspects of my journey so far. I believe that a company’s strength lies in harnessing these different perspectives, and I actively foster strong team relationships, as understanding people is key to working better together.
 
-At the heart of my career aspirations is a passion for driving projects that combine **innovation, purpose, and sustainability**. I feel strongly engaged with the principles of the circular economy, and I believe the **second-hand market** is one of the key pillars of sustainability. My goal is to keep growing in roles that bridge technology and business, while contributing to solutions that not only create value but also make a **positive impact** on the world.
+At the heart of my career aspirations is a passion for driving projects that combine **innovation, purpose, and sustainability**. I feel strongly engaged with the principles of the circular economy, and I believe the **second-hand market** is one of the key pillars of sustainability. My goal is to keep growing in roles that bridge technology and business, while contributing to solutions that not only create value but also make a **positive impact** on the world. -->
 
