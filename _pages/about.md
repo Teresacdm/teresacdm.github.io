@@ -8,9 +8,41 @@ redirect_from:
   - /about.html
 ---
 
+<!-- <style>
+  details summary {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    list-style: none; /* quita la viñeta/triángulo por defecto */
+  }
+
+  /* Personalizar el triángulo */
+  details summary::before {
+    content: "▶"; /* triángulo cerrado */
+    margin-right: 8px;
+    transition: transform 0.2s ease;
+  }
+
+  /* Cambia el triángulo cuando se abre */
+  details[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+  /* Un poco de estilo para diferenciar títulos */
+  summary {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+
+  details {
+    margin-bottom: 15px;
+  }
+</style> -->
+
 <details open>
-  <summary><h2>About my Present</h2></summary>
-  <p>I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.</p>
+  <summary><strong>About my Present</strong></summary>
+  <p>I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments within its <strong>Global IT Hub</strong>> designed to gain a 360º view of the company, exploring different business and technology fields.</p>
 
   <h3>Rotation 1: Business Technology Solutions:</h3>
   <p>In my first rotation, I contributed to the <strong>Digital Consumer Program for Reduced Risk Products</strong> — a digital ecosystem designed to engage consumers through tailored digital experiences. My role exposed me to diverse business perspectives, from Asian to European markets, adapting solutions to different consumer needs and cultural contexts.</p>
@@ -44,7 +76,7 @@ redirect_from:
 </details>
 
 <details>
-  <summary><h2>About my Past</h2></summary>
+  <summary><strong>About my Past</strong></summary>
   <p>I was born and raised in <strong>Granada</strong>, where I pursued a <strong>Double Degree in Computer Engineering and Business Administration</strong> at the University of Granada. This path gave me a unique perspective at the intersection of technology and business, strengthening both my analytical and problem-solving skills.</p>
 
   <p>I expanded my international outlook through <strong>exchange programs</strong> at Universidad Rey Juan Carlos (Madrid, Spain) and BME: University of Technology and Economics (Budapest, Hungary), experiences that broadened my cultural adaptability and academic depth.</p>
@@ -62,7 +94,7 @@ redirect_from:
 </details>
 
 <details>
-  <summary><h2>About my Future</h2></summary>
+  <summary><strong>About my Future</strong></summary>
   <p>Looking ahead, I am eager to continue expanding both my <strong>business knowledge and technical expertise</strong>, building on the foundation of my rotational experience. My upcoming third rotation in the <strong>Technology & Innovation</strong> department will give me the opportunity to explore emerging tools and evaluate their potential impact for employees, consumers, and the business as a whole.</p>
 
   <p>Beyond technical growth, I value the global perspective I have gained at JTI — <strong>working with colleagues from diverse cultures and backgrounds</strong> has been one of the most <strong>enriching</strong> aspects of my journey so far. I believe that a company’s strength lies in harnessing these different perspectives, and I actively foster strong team relationships, as understanding people is key to working better together.</p>
