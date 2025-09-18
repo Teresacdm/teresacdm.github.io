@@ -8,21 +8,68 @@ redirect_from:
   - /about.html
 ---
 
-
 <details open>
-  <summary><strong>About My Present</strong></summary>
+  <summary><h2>About my Present</h2></summary>
   <p>I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.</p>
+
+  <h3>Rotation 1: Business Technology Solutions:</h3>
+  <p>In my first rotation, I contributed to the <strong>Digital Consumer Program for Reduced Risk Products</strong> — a digital ecosystem designed to engage consumers through tailored digital experiences. My role exposed me to diverse business perspectives, from Asian to European markets, adapting solutions to different consumer needs and cultural contexts.</p>
+  <p>Key contributions:</p>
+  <ul>
+    <li><strong>Roll-Out Project Manager</strong>: Oversaw the end-to-end rollout process, from kick-off workshops to UAT sessions, through go-live and hypercare stabilization. Acted as the <strong>liaison</strong> between market functions, IT delivery teams, and third-party vendors, ensuring smooth deployment while safeguarding IT governance.</li>
+    <li><strong>Open Loyalty Migration</strong>: Coordinated the global migration from Open Loyalty 4 to 5 across all live markets. Became a <strong>subject-matter expert</strong> in the new version, ensuring local marketing teams understood its enhanced capabilities. Served as SPOC between the Global Engagement team and local markets, while also proposing improvements to streamline migration and enrich future feature development.</li>
+    <li><strong>AI & Productivity Initiative</strong>: Identified efficiency gaps in BTS daily routines and tested Microsoft Copilot and Power Automate use cases. Produced a structured evaluation report, highlighting where AI added the most value, and delivered a tailored presentation to my manager on how to embed AI-driven solutions into workflows. This project gave me practical insight into <strong>AI adoption for workplace productivity</strong>.</li>
+  </ul>
+
+  <h3>Rotation 2: Data Innovation & Analytics:</h3>
+  <p>Currently, I’m acting as a <strong>Business Analyst</strong> within two <strong>agile (scrum) teams</strong> — the Marketing Automation team and the Customer Data Platform (CDP) team. My role bridges business needs and technical execution, translating initiatives into clear requirements and working with <strong>Jira</strong> to streamline collaboration and ensure alignment across teams on tasks, bugs, and initiatives.</p>
+  <p>Key contributions:</p>
+  <ul>
+    <li><strong>Marketing Automation</strong>:
+      <ul>
+        <li>Supported IP warming campaigns to improve email deliverability and reputation, collaborating closely with <strong>Adobe</strong> teams.</li>
+        <li>Led the procurement and onboarding of third-party services to <strong>enhance SMS campaigns</strong>, coordinating with cybersecurity, digital architects, and development teams to ensure secure and seamless adoption.</li>
+        <li>Ensured global markets adhered to <strong>email campaign best practices</strong> in Adobe Campaign Classic, safeguarding IP reputation and avoiding spam traps.</li>
+        <li>Served as the <strong>right hand to the Product Owner</strong>, defining product goals and backlog items while ensuring alignment between global business needs and development efforts.</li>
+      </ul>
+    </li>
+    <li><strong>Customer Data Platform</strong>:
+      <ul>
+        <li>Supported local marketing teams in data segmentation and targeting, running SQL queries in <strong>Treasure Data</strong> to extract insights and build audience segments tailored to campaign needs.</li>
+        <li>Partnered with developers to <strong>refine data schemas</strong> and ensure <strong>business requirements were translated</strong> into reliable solutions.</li>
+        <li><strong>Documented</strong> processes, changes, and releases in official business pages, ensuring <strong>full transparency</strong> and cross-team alignment.</li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 <details>
-  <summary><strong>About My Past</strong></summary>
+  <summary><h2>About my Past</h2></summary>
   <p>I was born and raised in <strong>Granada</strong>, where I pursued a <strong>Double Degree in Computer Engineering and Business Administration</strong> at the University of Granada. This path gave me a unique perspective at the intersection of technology and business, strengthening both my analytical and problem-solving skills.</p>
+
+  <p>I expanded my international outlook through <strong>exchange programs</strong> at Universidad Rey Juan Carlos (Madrid, Spain) and BME: University of Technology and Economics (Budapest, Hungary), experiences that broadened my cultural adaptability and academic depth.</p>
+
+  <p>Throughout my studies, I developed strong technical versatility, working with languages such as <strong>Python, Java, Ruby, HTML, SQL</strong>, and tools like <strong>MongoDB, Django, KNIME, and Flet</strong>. These projects allowed me to apply my skills in real-world contexts:</p>
+  <ul>
+    <li><strong>Final Degree Project</strong>: Designed and developed a <strong>Flet application with Python backend</strong> for professional football physiotherapists, enabling efficient player health data registration and visualization to support decision-making on injuries and recovery. Being evaluated by the jury with a 9.5.</li>
+    <li><strong>Business Intelligence</strong>: Used <strong>KNIME and Python</strong> to analyze datasets, performing clustering on Spanish population data to study political opinion segmentation.</li>
+    <li><strong>Web Applications Development</strong>: Built an e-commerce platform with <strong>Python, HTML, MongoDB, and Django</strong>, gaining hands-on experience in <strong>full-stack</strong> web development.</li>
+    <li><strong>Object-Oriented Programming</strong>: Created a maze-based game in <strong>Java and Ruby</strong>, applying object-oriented design principles, probability, and logic-based mechanics.</li>
+    <li><strong>Marketing & Media Projects</strong>: Explored brand personality creation and media strategies through academic projects, even developing fictional start-ups to which I created a whole business plan and pitched it to a jury. I also strongly engaged in analyzing real-world campaigns to understand how businesses shape consumer engagement.</li>
+  </ul>
+
+  <p>I successfully completed this challenging double degree in the planned five years, graduating with both technical and business expertise that I continue to build on today.</p>
 </details>
 
 <details>
-  <summary><strong>About My Future</strong></summary>
+  <summary><h2>About my Future</h2></summary>
   <p>Looking ahead, I am eager to continue expanding both my <strong>business knowledge and technical expertise</strong>, building on the foundation of my rotational experience. My upcoming third rotation in the <strong>Technology & Innovation</strong> department will give me the opportunity to explore emerging tools and evaluate their potential impact for employees, consumers, and the business as a whole.</p>
+
+  <p>Beyond technical growth, I value the global perspective I have gained at JTI — <strong>working with colleagues from diverse cultures and backgrounds</strong> has been one of the most <strong>enriching</strong> aspects of my journey so far. I believe that a company’s strength lies in harnessing these different perspectives, and I actively foster strong team relationships, as understanding people is key to working better together.</p>
+
+  <p>At the heart of my career aspirations is a passion for driving projects that combine <strong>innovation, purpose, and sustainability</strong>. I feel strongly engaged with the principles of the circular economy, and I believe the <strong>second-hand market</strong> is one of the key pillars of sustainability. My goal is to keep growing in roles that bridge technology and business, while contributing to solutions that not only create value but also make a <strong>positive impact</strong> on the world.</p>
 </details>
+
 
 <!-- ## About My Present
 I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments designed to gain a 360º view of the company, exploring different business and technology fields.
