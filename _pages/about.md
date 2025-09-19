@@ -40,9 +40,10 @@ redirect_from:
   }
 </style> -->
 
+
 <details open>
   <summary><strong>About my Present</strong></summary>
-  <p>I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments within its <strong>Global IT Hub</strong>> designed to gain a 360º view of the company, exploring different business and technology fields.</p>
+  <p>I’m currently part of JTI’s Bright Up Graduate Programme, an exciting rotational journey across three departments within its <strong>Global IT Hub</strong> designed to gain a 360º view of the company, exploring different business and technology fields.</p>
 
   <h3>Rotation 1: Business Technology Solutions:</h3>
   <p>In my first rotation, I contributed to the <strong>Digital Consumer Program for Reduced Risk Products</strong> — a digital ecosystem designed to engage consumers through tailored digital experiences. My role exposed me to diverse business perspectives, from Asian to European markets, adapting solutions to different consumer needs and cultural contexts.</p>
